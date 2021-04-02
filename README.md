@@ -1,12 +1,5 @@
 # nf-core/dualrnaseq
 
-[![GitHub Actions CI Status](https://github.com/nf-core/dualrnaseq/workflows/nf-core%20CI/badge.svg)](https://github.com/nf-core/dualrnaseq/actions)
-[![GitHub Actions Linting Status](https://github.com/nf-core/dualrnaseq/workflows/nf-core%20linting/badge.svg)](https://github.com/nf-core/dualrnaseq/actions)
-[![Nextflow](https://img.shields.io/badge/nextflow-%E2%89%A520.10.0-brightgreen.svg)](https://www.nextflow.io/)
-[![DOI](https://zenodo.org/badge/309982089.svg)](https://zenodo.org/badge/latestdoi/309982089)
-
-## Dual RNA-seq pipeline
-
 ### To run the pipeline install and pull the following:
 
 1. Nextflow
